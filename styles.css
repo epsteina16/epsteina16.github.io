@@ -80,3 +80,35 @@ body{
 	height: 30px;
 	display: inline-block;
 }
+
+.nav-header{
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+	border-bottom: 1px dotted #BFBFC6;
+}
+
+.header-big{
+	display: inline-block;
+	text-align: left;
+}
+
+.header-right{
+	display: inline-block;
+	text-align: right;
+	padding-left: 20px;
+}
+
+.right-links{
+	float: right;
+}
+
+.section-header{
+	
+}
+
+.bold{
+	font-weight: 800;
+}
+
