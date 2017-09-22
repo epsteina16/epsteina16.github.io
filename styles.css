@@ -137,3 +137,18 @@ ul{
 	margin-top: 2px;
 }
 
+/*
+Bio styles
+*/
+
+.bio-images{
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bio-img img{
+	max-width: 80%;
+}
